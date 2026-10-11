@@ -1,0 +1,14 @@
+region;population;production_gwh;kwh_par_habitant;classe
+Centre-Val de Loire;2570000;74950;29163;forte
+Auvergne-Rhône-Alpes;8200000;142200;17341;forte
+Normandie;3300000;54900;16636;forte
+Grand Est;5560000;84000;15107;forte
+Nouvelle-Aquitaine;6100000;62400;10229;forte
+Hauts-de-France;6000000;50310;8385;moyenne
+Occitanie;6100000;38800;6360;moyenne
+Corse;350000;2190;6257;moyenne
+Provence-Alpes-Côte d'Azur;5200000;16900;3250;moyenne
+Pays de la Loire;3900000;8100;2076;faible
+Bretagne;3400000;5700;1676;faible
+Bourgogne-Franche-Comté;2800000;3900;1392;faible
+Île-de-France;12300000;5450;443;faible
